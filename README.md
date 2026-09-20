@@ -6,6 +6,12 @@
 
 <br/>
 
+<a href="https://t.me/pulpadulpa">
+  <img alt="Telegram @pulpadulpa" src="https://img.shields.io/badge/Telegram-@pulpadulpa-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br/><br/>
+
 <img alt="skill icons" src="https://skillicons.dev/icons?i=python,cpp,java,bash,linux,git,docker,vscode&theme=dark" />
 
 <br/><br/>
