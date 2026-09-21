@@ -2,7 +2,7 @@
 
 <img alt="zxaty header" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=zxaty&fontAlign=50&fontAlignY=35&color=0:0D1117,100:238636&fontColor=FFFFFF&animation=fadeIn" />
 
-### `cybersecurity • digital forensics • ctf`
+### `cybersecurity • digital forensics • dota2`
 
 <br/>
 
